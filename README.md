@@ -5,11 +5,13 @@
 ## Installing Commands
 - pkg install python
 - pkg install python2
-## Copy Paste Git clone line
+## Copy Paste Git clone link
+
 `https://github.com/DarkHeaveN123/DDOS-2.0.git`
 ## Allow Perimisson the Tool
 - chmod +x *
 ## And Open Darkheaven Folder 
 `And type python2 ddos-attack.py`
+
 
 

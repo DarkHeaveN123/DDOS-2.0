@@ -9,11 +9,11 @@
 
 `https://github.com/DarkHeaveN123/DDOS-2.0.git`
 ## Allow Perimisson the Tool
-- chmod +x *
+- chmod +x ddos-2.0.py
 ## And Open Darkheaven Folder 
 - Find  ddos-attack.py
 ## Now Run Command 
-`python2 ddos-attack.py`
+`python2 ddos-2.0.py`
 ## Tool has Open
 - Enter Target IP
 - Enter Port Number

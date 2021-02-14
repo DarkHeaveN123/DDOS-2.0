@@ -16,7 +16,7 @@
 `python2 ddos-2.0.py`
 ## Tool has Open
 - Enter Target IP
-- Best IP Finder Site:https://iplogger.org/url-checker/
+`Best IP Finder Site:https://iplogger.org/url-checker/`
 - Enter Port Number
 `Best Port Number 8080`
 ![ddos ip (3)](https://user-images.githubusercontent.com/79021904/107887456-4ada5980-6f2c-11eb-9f8b-7266630527f1.png)

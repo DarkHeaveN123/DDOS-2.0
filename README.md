@@ -17,9 +17,9 @@
 ## Tool has Open
 - Enter Target IP
 - Enter Port Number
+`Best Port Number 8080`
+## Attacking Starting
 
-`best port number 8080`
-## Attacking Staring
 
 
 

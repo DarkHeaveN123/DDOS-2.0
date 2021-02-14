@@ -18,6 +18,7 @@
 - Enter Target IP
 - Enter Port Number
 `Best Port Number 8080`
+![ddos ip (3)](https://user-images.githubusercontent.com/79021904/107887456-4ada5980-6f2c-11eb-9f8b-7266630527f1.png)
 ## Attacking Starting
 
 

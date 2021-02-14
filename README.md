@@ -15,6 +15,10 @@
 ## Now Run Command 
 `python2 ddos-attack.py`
 ## Tool has Open
+- Enter Target IP
+- Enter Port Number
+`best port number 8080`
+## Attacking Staring
 
 
 

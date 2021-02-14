@@ -11,7 +11,10 @@
 ## Allow Perimisson the Tool
 - chmod +x *
 ## And Open Darkheaven Folder 
-`And type python2 ddos-attack.py`
+- Find  ddos-attack.py
+## Now Run Command 
+`python2 ddos-attack.py`
+## Tool has Open
 
 
 

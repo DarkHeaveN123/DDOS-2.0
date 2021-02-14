@@ -11,7 +11,7 @@
 ## Allow Perimisson the Tool
 - chmod +x ddos-2.0.py
 ## And Open Darkheaven Folder 
-- Find  ddos-2.0.py
+- Find  ddos-2.0.py 
 ## Now Run Command 
 `python2 ddos-2.0.py`
 ## Tool has Open
